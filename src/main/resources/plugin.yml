@@ -1,0 +1,4 @@
+name: LightLibs
+version: '1.0-SNAPSHOT'
+main: net.lightmc.lightLibs.LightLibs
+api-version: '1.21'
